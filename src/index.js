@@ -2,3 +2,4 @@
 console.log("Hello, world!");
 // Adding for test
 
+// Path: src/index.js
