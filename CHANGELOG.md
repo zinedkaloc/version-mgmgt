@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.3] - 2023-07-06
+
+### Added
+
+- New feature to do something.
+- Documentation for the new feature.
+
 ## [1.0.2] - 2023-07-05
 
 ### Added
