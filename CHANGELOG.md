@@ -28,3 +28,13 @@
 
 
 
+CHANGELOG:\n# [1.2.0](https://github.com/zinedkaloc/version-mgmgt/compare/v1.1.1...v1.2.0) (2023-07-05)
+
+
+### Features
+
+* allow provided config object to extend other configs ([27a2f17](https://github.com/zinedkaloc/version-mgmgt/commit/27a2f1772d995a61633fb7bf62188c55432e108b))
+
+
+
+
