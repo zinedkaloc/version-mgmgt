@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.5] - 2023-07-07
+
+### Added
+
+- New feature to do something.
+- Documentation for the new feature.
+- New feature to do something.
+- Documentation for the new feature.
+- Update to a feature.
+- Removed an outdated feature.
+
 ## [1.0.4] - 2023-07-06
 
 ### Added
@@ -50,5 +61,5 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - Initial release with basic features.
-CHANGELOG:\n
-CHANGELOG:\n
+  CHANGELOG:\n
+  CHANGELOG:\n

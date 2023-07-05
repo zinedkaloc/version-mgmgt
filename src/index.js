@@ -5,3 +5,5 @@ console.log("Hello, world!");
 // Path: src/index.js
 
 // Purpose: Entry point for the application.
+
+// Adding for test
