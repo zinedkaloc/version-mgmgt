@@ -1,65 +1,35 @@
-# Changelog
+# [1.1.0](https://github.com/zinedkaloc/version-mgmgt/compare/v1.0.8...v1.1.0) (2023-07-05)
 
-All notable changes to this project will be documented in this file.
 
-## [1.0.5] - 2023-07-07
+### Features
 
-### Added
+* allow provided config object to extend other configs ([92dd723](https://github.com/zinedkaloc/version-mgmgt/commit/92dd72382d92c3facf7463853753b60cff0b53ef))
 
-- New feature to do something.
-- Documentation for the new feature.
-- New feature to do something.
-- Documentation for the new feature.
-- Update to a feature.
-- Removed an outdated feature.
 
-## [1.0.4] - 2023-07-06
 
-### Added
+## [1.0.8](https://github.com/zinedkaloc/version-mgmgt/compare/v1.0.6...v1.0.8) (2023-07-05)
 
-- New feature to do something.
-- Documentation for the new feature.
 
-## [1.0.3] - 2023-07-06
 
-### Added
+## [1.0.6](https://github.com/zinedkaloc/version-mgmgt/compare/v1.0.4...v1.0.6) (2023-07-05)
 
-- New feature to do something.
-- Documentation for the new feature.
 
-## [1.0.2] - 2023-07-05
 
-### Added
+## [1.0.4](https://github.com/zinedkaloc/version-mgmgt/compare/v1.0.2...v1.0.4) (2023-07-05)
 
-- New feature to do something.
-- Documentation for the new feature.
 
-### Changed
 
-- Bugfix: corrected the behavior of a feature.
+## 1.0.2 (2023-07-05)
 
-### Deprecated
 
-- Old feature that will be removed soon.
 
-## [1.0.1] - 2023-06-30
+CHANGELOG:\n# [1.1.0](https://github.com/zinedkaloc/version-mgmgt/compare/v1.0.8...v1.1.0) (2023-07-05)
 
-### Added
 
-- Feature to do something.
+### Features
 
-### Changed
+* allow provided config object to extend other configs ([92dd723](https://github.com/zinedkaloc/version-mgmgt/commit/92dd72382d92c3facf7463853753b60cff0b53ef))
 
-- Update to a feature.
 
-### Removed
 
-- Removed an outdated feature.
 
-## [1.0.0] - 2023-06-20
-
-### Added
-
-- Initial release with basic features.
-  CHANGELOG:\n
-  CHANGELOG:\n

@@ -40,6 +40,9 @@ jobs:
           git config --local user.name "GitHub Action"
           git commit -am "Update CHANGELOG.md [skip ci]"
 
+      - name: Debug changelog output
+        run: echo "${{ steps.changelog.outputs.changelog }}"
+
       - name: Update version
         id: version
         run: |
