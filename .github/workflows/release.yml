@@ -42,10 +42,11 @@ jobs:
 
       - name: Update version
         run: |
-          npm version patch -m "chore(release): %s [skip ci]"
+          npm version patch --no-git-tag-version
+          git add package.json
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -am "Update package.json version [skip ci]"
+          git commit -m "chore(release): $(cat package.json | jq -r '.version') [skip ci]"
 
       - name: Push changes
         uses: ad-m/github-push-action@master
