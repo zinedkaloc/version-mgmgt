@@ -63,3 +63,4 @@ All notable changes to this project will be documented in this file.
 - Initial release with basic features.
   CHANGELOG:\n
   CHANGELOG:\n
+CHANGELOG:\n
